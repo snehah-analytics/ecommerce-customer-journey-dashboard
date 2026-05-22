@@ -161,7 +161,7 @@ Given more time, the project could be enhanced by:
 
 Due to GitHub file size limitations, the Power BI (.pbix) file can be downloaded here:
 
-[Download Dashboard File]([YOUR_GOOGLE_DRIVE_LINK](https://drive.google.com/file/d/1ZtZX_UlYe8MVip0BjvNCgbcZrDRaBy7C/view?usp=drive_link))
+[Download Dashboard File](https://drive.google.com/file/d/1ZtZX_UlYe8MVip0BjvNCgbcZrDRaBy7C/view?usp=drive_link)
 
 ---
 
