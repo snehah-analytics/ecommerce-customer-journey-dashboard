@@ -153,7 +153,7 @@ Given more time, the project could be enhanced by:
 
 # 📷 Dashboard Preview
 
-(Add your dashboard screenshot here)
+dashboard_screenshot.png
 
 ---
 
