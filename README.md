@@ -157,6 +157,14 @@ dashboard_screenshot.png
 
 ---
 
+## 📥 Power BI Dashboard File
+
+Due to GitHub file size limitations, the Power BI (.pbix) file can be downloaded here:
+
+[Download Dashboard File]([YOUR_GOOGLE_DRIVE_LINK](https://drive.google.com/file/d/1ZtZX_UlYe8MVip0BjvNCgbcZrDRaBy7C/view?usp=drive_link))
+
+---
+
 # 🙌 Conclusion
 
 This project demonstrates how raw e-commerce data can be transformed into actionable business insights using SQL and Power BI.
